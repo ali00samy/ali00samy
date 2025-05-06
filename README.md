@@ -75,6 +75,7 @@
 | [📈 Plant Company Performance Dashboard](https://github.com/ali00samy/Plant-Company-Performance-Dashboard) | An interactive Power BI dashboard analyzing key sales, production, and operational metrics | Power BI, DAX |
 | [📊 Health Indicator](https://github.com/ali00samy/health-indicator) | Analyzes the Diabetes Health Indicators dataset from Kaggle to explore health indicators related to diabetes. | Python, Pandas |
 | [📚 Udemy Course Analysis](https://github.com/ali00samy/udemy-courses-analysis) | comprehensive analysis of Udemy course data. | Python, Pandas, Matplotlib |
+| [📊 Facebook-Ads-Performance-Dashboard](https://github.com/ali00samy/Facebook-Ads-Performance-Dashboard) | Power BI dashboard campaign performance across impressions, clicks, conversions, spend, and ROI | Power BI, DAX |
 
 ---
 
