@@ -76,6 +76,7 @@
 | [📊 Health Indicator](https://github.com/ali00samy/health-indicator) | Analyzes the Diabetes Health Indicators dataset from Kaggle to explore health indicators related to diabetes. | Python, Pandas |
 | [📚 Udemy Course Analysis](https://github.com/ali00samy/udemy-courses-analysis) | comprehensive analysis of Udemy course data. | Python, Pandas, Matplotlib |
 | [📊 Facebook-Ads-Performance-Dashboard](https://github.com/ali00samy/Facebook-Ads-Performance-Dashboard) | Power BI dashboard campaign performance across impressions, clicks, conversions, spend, and ROI | Power BI, DAX |
+| [📊 Sales Data Mart](https://github.com/ali00samy/Adventure-Works-Sales-Data-Mart) | The Sales Data Mart project is designed to build a data mart for sales-related data using SSIS | SSIS, ETL |
 
 ---
 
