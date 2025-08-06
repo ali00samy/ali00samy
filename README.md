@@ -41,7 +41,7 @@
 | Project | Description | Tools |
 |--------|-------------|-------|
 | [🍕 Pizza Sales Dashboard](https://github.com/ali00samy/pizza-sales-dashboard) | Power BI dashboard analyzing pizza orders, revenue, and top sellers | Power BI, DAX |
-| [📊 Healthcare Provider Insights](https://github.com/ali00samy/healthcare-dashboard) | Interactive dashboard for analyzing diabetes-related health indicators | Power BI, Python |
+| [📊 Healthcare Provider Insights](https://github.com/ali00samy/healthcare-provider-dashboard) | Interactive dashboard for analyzing diabetes-related health indicators | Power BI, Python |
 | [🚗 Car Sales Data Analysis](https://github.com/ali00samy/car-sales-analysis) | SQL & Python analysis of vehicle sales data | SQL, Python, Pandas |
 | [📈 Plant Company Performance Dashboard](https://github.com/ali00samy/Plant-Company-Performance-Dashboard) | An interactive Power BI dashboard analyzing key sales, production, and operational metrics | Power BI, DAX |
 | [📊 Health Indicator](https://github.com/ali00samy/health-indicator) | Analyzes the Diabetes Health Indicators dataset from Kaggle to explore health indicators related to diabetes. | Python, Pandas |
