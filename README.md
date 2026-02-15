@@ -48,7 +48,7 @@
 | [📚 Udemy Course Analysis](https://github.com/ali00samy/udemy-courses-analysis) | comprehensive analysis of Udemy course data. | Python, Pandas, Matplotlib |
 | [📊 Facebook-Ads-Performance-Dashboard](https://github.com/ali00samy/Facebook-Ads-Performance-Dashboard) | Power BI dashboard campaign performance across impressions, clicks, conversions, spend, and ROI | Power BI, DAX |
 | [📊 Sales Data Mart](https://github.com/ali00samy/Adventure-Works-Sales-Data-Mart) | The Sales Data Mart project is designed to build a data mart for sales-related data using SSIS | SSIS, ETL |
-| [📊 Volt & Vessel Retail Intelligence Dashboard) | This project transforms raw retail data from a hybrid (Online & Physical) gadget store into a strategic decision-making tool | Power BI, DAX |
+| [📊 Volt & Vessel Retail Intelligence Dashboard](https://github.com/ali00samy/Volt-Vessel-Retail) | This project transforms raw retail data from a hybrid (Online & Physical) gadget store into a strategic decision-making tool | Power BI, DAX |
 ---
 
 > “Without data, you're just another person with an opinion.” – *W. Edwards Deming*
